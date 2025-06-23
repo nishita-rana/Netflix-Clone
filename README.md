@@ -29,11 +29,11 @@ A responsive front-end clone of the **Netflix Home Page**, built using **pure HT
 
 ## 📬 Contact
 
-🧑‍💻 GitHub: 
+🧑‍💻 GitHub: https://github.com/nishita-rana
 
 🌐 Portfolio: 
 
-📧 Email: 
+📧 Email: nishitarana17@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/nishita-rana-108340259
 
